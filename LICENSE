@@ -1,45 +1,21 @@
-# License
+MIT License
 
 Copyright (c) 2025 Meghna Gagan
 
-## Usage
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This project is for **educational and research purposes**.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-### What You Can Do
-
-- Use it for learning and research
-- Modify the code for your assignments
-- Share your results
-- Reference it in your reports
-
-### What You Should Do
-
-- Give credit if you use this code
-- Don't claim you wrote everything from scratch if you copy parts
-- Keep this license file if you share the code
-
-### What You Can't Do
-
-- Use this commercially without permission
-- Copy everything and claim it's entirely your work
-
-### Disclaimer
-
-This code is provided as-is. I did my best to make it work, but there might be bugs. Use it at your own risk.
-
-### Libraries Used
-
-This project uses these open-source libraries:
-- **HuBERT Model** by Facebook AI (Meta)
-- **Transformers** by Hugging Face
-- **PyTorch** by Facebook
-- **scikit-learn**
-- **librosa**
-- **Gradio**
-
-All of them have their own licenses that allow this use.
-
----
-
-**Date**: November 25, 2025
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
