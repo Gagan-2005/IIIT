@@ -153,7 +153,7 @@ python scripts/predict.py <path_to_audio.wav>
 
 ## Author
 
-- Meghna Gagan
+- Gagan Reddy
 
 ## License
 
