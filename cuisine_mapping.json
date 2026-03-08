@@ -1,0 +1,122 @@
+{
+  "andhra_pradesh": {
+    "region": "Andhra Pradesh",
+    "language": "Telugu",
+    "cuisine": "Andhra Cuisine",
+    "dishes": [
+      "Hyderabadi Biryani",
+      "Gongura Pachadi",
+      "Pesarattu (Green Gram Dosa)",
+      "Pulihora (Tamarind Rice)",
+      "Gutti Vankaya (Stuffed Eggplant)",
+      "Andhra Chicken Curry",
+      "Pootharekulu (Paper-thin Sweet)"
+    ],
+    "characteristics": [
+      "Spicy and tangy flavors",
+      "Liberal use of tamarind and red chilies",
+      "Rice-based dishes",
+      "Pickles and chutneys"
+    ]
+  },
+  "gujrat": {
+    "region": "Gujarat",
+    "language": "Gujarati",
+    "cuisine": "Gujarati Cuisine",
+    "dishes": [
+      "Dhokla",
+      "Khandvi",
+      "Undhiyu",
+      "Gujarati Thali",
+      "Fafda-Jalebi",
+      "Mohanthal",
+      "Khaman"
+    ],
+    "characteristics": [
+      "Sweet and mildly spiced",
+      "Predominantly vegetarian",
+      "Balance of sweet, salty, and tangy",
+      "Use of jaggery and sugar"
+    ]
+  },
+  "jharkhand": {
+    "region": "Jharkhand",
+    "language": "Hindi/Tribal languages",
+    "cuisine": "Jharkhandi Cuisine",
+    "dishes": [
+      "Litti Chokha",
+      "Dhuska",
+      "Chilka Roti",
+      "Rugra",
+      "Bamboo Shoot Curry",
+      "Pittha",
+      "Handia (Traditional Rice Beer)"
+    ],
+    "characteristics": [
+      "Tribal and rustic flavors",
+      "Simple and wholesome",
+      "Use of local herbs and bamboo",
+      "Roasted and boiled preparations"
+    ]
+  },
+  "karnataka": {
+    "region": "Karnataka",
+    "language": "Kannada",
+    "cuisine": "Karnataka Cuisine",
+    "dishes": [
+      "Bisi Bele Bath",
+      "Mysore Masala Dosa",
+      "Rava Idli",
+      "Neer Dosa",
+      "Jolada Rotti with Ennegai",
+      "Holige (Puran Poli)",
+      "Coorg Pork Curry"
+    ],
+    "characteristics": [
+      "Diverse regional variations",
+      "Use of rice and ragi",
+      "Coconut-based gravies",
+      "Mild to moderate spices"
+    ]
+  },
+  "kerala": {
+    "region": "Kerala",
+    "language": "Malayalam",
+    "cuisine": "Kerala Cuisine",
+    "dishes": [
+      "Sadya (Kerala Feast)",
+      "Appam with Stew",
+      "Fish Moilee",
+      "Kerala Parotta with Beef Fry",
+      "Puttu and Kadala Curry",
+      "Aviyal",
+      "Payasam"
+    ],
+    "characteristics": [
+      "Coconut-based dishes",
+      "Seafood delicacies",
+      "Use of curry leaves and coconut oil",
+      "Mild and aromatic spices"
+    ]
+  },
+  "tamil": {
+    "region": "Tamil Nadu",
+    "language": "Tamil",
+    "cuisine": "Tamil Cuisine",
+    "dishes": [
+      "Idli-Sambar-Chutney",
+      "Chettinad Chicken",
+      "Pongal",
+      "Vada",
+      "Biryani (Ambur/Dindigul style)",
+      "Rasam",
+      "Payasam"
+    ],
+    "characteristics": [
+      "Rice-based staples",
+      "Spicy Chettinad flavors",
+      "Tangy tamarind-based dishes",
+      "Vegetarian temple cuisine"
+    ]
+  }
+}

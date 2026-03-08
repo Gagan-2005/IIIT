@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments and local env state
+venv/
+ENV/
+env/
+.venv/
+.conda/
+conda-meta/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs / temp
+*.log
+tmp/
+temp/
+*.tmp
+
+# Audio and heavy artifacts (recursive)
+**/*.wav
+**/*.mp3
+**/*.flac
+**/*.npy
+**/*.npz
+**/*.pkl
+**/*.joblib
+**/*.pt
+**/*.pth
+**/*.ckpt
+**/*.h5
+**/*.hdf5
+**/*.onnx
+
+# Generated outputs
+results/**
+reports/**
+*_prediction.json
+
+# Large data/model/feature folders
+data/raw/**
+data/arith(child)/**
+features/**
+models/**
+
+# Keep lightweight structure and metadata
+!data/manifests/**
+!data/.gitkeep
+!features/.gitkeep
+!models/.gitkeep
+!results/.gitkeep
+!reports/.gitkeep

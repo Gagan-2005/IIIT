@@ -1,0 +1,45 @@
+# License
+
+Copyright (c) 2025 Meghna Gagan
+
+## Usage
+
+This project is for **educational and research purposes**.
+
+### What You Can Do
+
+- Use it for learning and research
+- Modify the code for your assignments
+- Share your results
+- Reference it in your reports
+
+### What You Should Do
+
+- Give credit if you use this code
+- Don't claim you wrote everything from scratch if you copy parts
+- Keep this license file if you share the code
+
+### What You Can't Do
+
+- Use this commercially without permission
+- Copy everything and claim it's entirely your work
+
+### Disclaimer
+
+This code is provided as-is. I did my best to make it work, but there might be bugs. Use it at your own risk.
+
+### Libraries Used
+
+This project uses these open-source libraries:
+- **HuBERT Model** by Facebook AI (Meta)
+- **Transformers** by Hugging Face
+- **PyTorch** by Facebook
+- **scikit-learn**
+- **librosa**
+- **Gradio**
+
+All of them have their own licenses that allow this use.
+
+---
+
+**Date**: November 25, 2025
