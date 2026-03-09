@@ -324,9 +324,6 @@ Planned enhancements:
 - Production APIs and mobile deployment
 - Multi-task learning (accent + age + gender)
 
-## Project Drive
-
-- [Google Drive](https://drive.google.com/drive/folders/1sVFaNspa492s07UTHo8MdUigFcvaQF96?usp=sharing)
 
 ## Project Status
 
