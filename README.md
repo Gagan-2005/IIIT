@@ -340,6 +340,7 @@ Planned enhancements:
 - Core libraries: Hugging Face, PyTorch, scikit-learn, librosa, Gradio
 - Institution: Hyderabad Institute of Technology and Management
 
+
 ## License
 
-This project is licensed under the MIT License. See `LICENSE`.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
