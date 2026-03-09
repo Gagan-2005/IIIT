@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # Native Language Identification of Indian English Speakers using HuBERT
 
 A Deep Learning Project for Identifying Regional Indian Accents in English Speech
