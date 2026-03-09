@@ -101,7 +101,7 @@ Common Voice: A Massively-Multilingual Speech Corpus.
 SpeechBrain: A General-Purpose Speech Toolkit.
 librosa: Audio and Music Signal Analysis in Python.
 
-Author: Meghna Gagan
+Author: Gagan Reddy
 Date: November 26, 2025
 Course Project: Native Language Identification using HuBERT
 Contact: Your Email

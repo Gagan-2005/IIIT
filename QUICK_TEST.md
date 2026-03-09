@@ -3,7 +3,7 @@
 ## Test All 6 States (Copy-Paste into PowerShell)
 
 ```powershell
-cd "c:\Users\Meghna Gagan\OneDrive\Desktop\NLI_HuBERT_Proj-2025\NLI_HuBERT_Project"
+cd "path\to\NLI_HuBERT_Project"
 
 Write-Host "`n=== TESTING ANDHRA PRADESH ===" -ForegroundColor Cyan
 python scripts/predict.py "data/raw/andhra_pradesh/Andhra_speaker (1084).wav"
@@ -56,7 +56,7 @@ Take a screenshot of the PowerShell window showing all 6 predictions. This serve
 If you want to test individually (easier to screenshot each):
 
 ```powershell
-cd "c:\Users\Meghna Gagan\OneDrive\Desktop\NLI_HuBERT_Proj-2025\NLI_HuBERT_Project"
+cd "path\to\NLI_HuBERT_Project"
 
 # Test Andhra Pradesh
 python scripts/predict.py "data/raw/andhra_pradesh/Andhra_speaker (1084).wav"

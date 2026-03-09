@@ -12,7 +12,7 @@ STEP 1: Open PowerShell (Windows Key + X, then select "Windows PowerShell")
 
 STEP 2: Copy and paste this command:
 
-cd "c:\Users\Meghna Gagan\OneDrive\Desktop\NLI_HuBERT_Proj-2025\NLI_HuBERT_Project"
+cd "path\to\NLI_HuBERT_Project"
 
 STEP 3: Test all 6 states at once - Copy all these commands together:
 
@@ -80,7 +80,7 @@ TESTING OPTIONS
 OPTION 1: Command Line Testing (RECOMMENDED - Works Every Time)
 ------------------------------------------------------------------
 1. Open PowerShell
-2. Navigate to project: cd "c:\Users\Meghna Gagan\OneDrive\Desktop\NLI_HuBERT_Proj-2025\NLI_HuBERT_Project"
+2. Navigate to project: cd "path\to\NLI_HuBERT_Project"
 3. Run: python scripts/predict.py "data/raw/andhra_pradesh/Andhra_speaker (1084).wav"
 4. Screenshot the output showing high confidence
 5. Repeat for other states (see QUICK_TEST.md)
@@ -88,7 +88,7 @@ OPTION 1: Command Line Testing (RECOMMENDED - Works Every Time)
 OPTION 2: Web Interface
 ------------------------------------------------------------------
 1. Open PowerShell
-2. Navigate to project: cd "c:\Users\Meghna Gagan\OneDrive\Desktop\NLI_HuBERT_Proj-2025\NLI_HuBERT_Project"
+2. Navigate to project: cd "path\to\NLI_HuBERT_Project"
 3. Run: python app.py
 4. Open browser to: http://127.0.0.1:7860
 5. Upload audio files and see predictions

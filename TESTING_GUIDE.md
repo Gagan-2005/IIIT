@@ -11,7 +11,7 @@ This guide walks you through testing the Gradio web interface to capture screens
 Open PowerShell and run:
 
 ```powershell
-cd "c:\Users\Meghna Gagan\OneDrive\Desktop\NLI_HuBERT_Proj-2025\NLI_HuBERT_Project"
+cd "path\to\NLI_HuBERT_Project"
 python app.py
 ```
 

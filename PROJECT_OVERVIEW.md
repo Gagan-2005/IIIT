@@ -66,6 +66,6 @@ The repository includes data for audio files and manifests, features for extract
 
 Install dependencies with pip install -r requirements.txt. Extract features if needed by running python scripts/batch_extract_features.py. Train the model by running python scripts/train_final_model.py. Make predictions by running python scripts/predict.py with an audio file path. Launch the web app by running python app.py.
 
-Author: Meghna Gagan
+Author: Gagan Reddy
 Date: November 2025
 Course Project: Native Language Identification
